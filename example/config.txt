@@ -1,0 +1,2 @@
+Prefix plugins/Shear/example/
+Plugin Shear inputfile parameters.txt outputfile out.shear

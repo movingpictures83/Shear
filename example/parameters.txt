@@ -1,0 +1,2 @@
+file_name	Combined_genomes.fa
+cut_len	12
